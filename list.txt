@@ -1,0 +1,684 @@
+Acid Arrow
+Acid Fog
+Acid Splash
+Aid
+Air Walk
+Alarm
+Align Weapon
+Alter Self
+Analyze Dweomer
+Animal Growth
+Animal Messenger
+Animal Shapes
+Animal Trance
+Animate Dead
+Animate Objects
+Animate Plants
+Animate Rope
+Animus Blast
+Animus Blizzard
+Antilife Shell
+Antimagic Field
+Antipathy
+Antiplant Shell
+Arcane Eye
+Arcane Lock
+Arcane Mark
+Arcane Sight
+Armor of Darkness
+Astral Projection
+Atonement
+Augury
+Awaken
+Baleful Polymorph
+Baleful Transposition
+Bane
+Banishment
+Barkskin
+Bear's Endurance
+Bestow Curse
+Binding
+Black Tentacles
+Blacklight
+Blade Barrier
+Blasphemy
+Bless
+Bless Water
+Bless Weapon
+Blight
+Blindness/Deafness
+Blink
+Blur
+Bolt of Glory
+Bolts of Bedevilment
+Brain Spider
+Break Enchantment
+Bull's Strength
+Burning Hands
+Call Lightning
+Call Lightning Storm
+Calm Animals
+Calm Emotions
+Cat's Grace
+Cause Fear
+Chain Lightning
+Changestaff
+Chaos Hammer
+Charm Animal
+Charm Monster
+Charm Person
+Chill Metal
+Chill Touch
+Circle of Death
+Clairaudience/Clairvoyance
+Clenched Fist
+Cloak of Chaos
+Clone
+Close Wounds
+Cloudkill
+Color Spray
+Command
+Command Plants
+Command Undead
+Commune
+Commune with Nature
+Comprehend Languages
+Cone of Cold
+Confusion
+Consecrate
+Contact Other Plane
+Contagion
+Contingency
+Contingent Resurrection
+Continual Flame
+Control Plants
+Control Undead
+Control Water
+Control Weather
+Control Winds
+Corrupt Weapon
+Create Food and Water
+Create Greater Undead
+Create Living Vault
+Create Undead
+Create Water
+Creeping Doom
+Crown of Glory
+Crown of Vermin
+Crushing Despair
+Crushing Hand
+Cure Critical Wounds
+Cure Light Wounds
+Cure Minor Wounds
+Cure Moderate Wounds
+Cure Serious Wounds
+Curse Water
+Damnation
+Dancing Lights
+Darkness
+Darkvision (Spell)
+Daylight
+Daze
+Daze Monster
+Death Knell
+Death Ward
+Deathwatch
+Deep Slumber
+Deeper Darkness
+Delay Poison
+Delayed Blast Fireball
+Demand
+Demise Unseen
+Desecrate
+Destruction
+Detect Animals or Plants
+Detect Chaos
+Detect Evil
+Detect Good
+Detect Law
+Detect Magic
+Detect Poison
+Detect Scrying
+Detect Secret Doors
+Detect Snares and Pits
+Detect Thoughts
+Detect Undead
+Dictum
+Dimension Door
+Dimensional Anchor
+Dimensional Lock
+Diminish Plants
+Dire Winter
+Discern Lies
+Discern Location
+Disguise Self
+Disguise Undead
+Disintegrate
+Dismissal
+Dispel Chaos
+Dispel Evil
+Dispel Good
+Dispel Law
+Dispel Magic
+Displacement
+Disrupt Undead
+Disrupting Weapon
+Divination
+Divine Favor
+Divine Power
+Dominate Animal
+Dominate Monster
+Dominate Person
+Doom
+Dragon Knight
+Dragon Strike
+Dream
+Dreamscape
+Dweomer of Transference
+Eagle's Splendor
+Earthquake
+Eclipse
+Eidolon
+Elemental Swarm
+Endure Elements
+Energy Drain (Spell)
+Enervation
+Enlarge Person
+Enslave
+Entangle
+Enthrall
+Entropic Shield
+Epic Counterspell
+Epic Mage Armor
+Epic Repulsion
+Epic Spell Reflection
+Erase
+Eternal Freedom
+Ethereal Jaunt
+Etherealness (Spell)
+Expeditious Retreat
+Explosive Runes
+Eyebite
+Fabricate
+Faerie Fire
+False Life
+False Vision
+Fear (Spell)
+Feather Fall
+Feeblemind
+Find Traps
+Find the Path
+Finger of Death
+Fire Seeds
+Fire Shield
+Fire Storm
+Fire Trap
+Fireball
+Flame Arrow
+Flame Blade
+Flame Strike
+Flaming Sphere
+Flare
+Flesh to Stone
+Floating Disk
+Fly (Spell)
+Fog Cloud
+Forbiddance
+Forcecage
+Forceful Hand
+Foresight
+Fox's Cunning
+Freedom
+Freedom of Movement
+Freezing Sphere
+Gaseous Form (Spell)
+Gate
+Gathering of Maggots
+Geas/Quest
+Genesis
+Gentle Repose
+Ghost Sound
+Ghoul Touch
+Giant Vermin
+Glibness
+Glitterdust
+Globe of Invulnerability
+Glossolalia
+Glyph of Warding
+Good Hope
+Goodberry
+Grasping Hand
+Grease
+Greater Arcane Sight
+Greater Command
+Greater Dispel Magic
+Greater Glyph of Warding
+Greater Heroism
+Greater Invisibility
+Greater Magic Fang
+Greater Magic Weapon
+Greater Planar Ally
+Greater Planar Binding
+Greater Prying Eyes
+Greater Psychic Turmoil
+Greater Restoration
+Greater Ruin
+Greater Scrying
+Greater Shadow Conjuration
+Greater Shadow Evocation
+Greater Shout
+Greater Spell Immunity
+Greater Spell Resistance
+Greater Status
+Greater Teleport
+Guards and Wards
+Guidance
+Gust of Wind
+Hallow
+Hallucinatory Terrain
+Halt Undead
+Hardening
+Harm
+Haste
+Heal
+Heal Mount
+Heat Metal
+Hellball
+Helping Hand
+Heroes' Feast
+Heroism
+Hide from Animals
+Hide from Undead
+Hideous Laughter
+Hold Animal
+Hold Monster
+Hold Person
+Hold Portal
+Holy Aura
+Holy Smite
+Holy Sword
+Holy Word
+Horrid Wilting
+Hypnotic Pattern
+Hypnotism
+Ice Storm
+Identify
+Illusory Script
+Illusory Wall
+Imbue with Spell Ability
+Implosion
+Imprisonment
+Incendiary Cloud
+Inflict Critical Wounds
+Inflict Light Wounds
+Inflict Minor Wounds
+Inflict Moderate Wounds
+Inflict Serious Wounds
+Insanity
+Insect Plague
+Instant Summons
+Interposing Hand
+Invisibility (Spell)
+Invisibility Purge
+Invisibility Sphere
+Iron Body
+Ironwood
+Irresistible Dance
+Jump
+Keen Edge
+Kinetic Control
+Knock
+Know Direction
+Legend Lore
+Lesser Confusion
+Lesser Geas
+Lesser Globe of Invulnerability
+Lesser Planar Ally
+Lesser Planar Binding
+Lesser Restoration
+Lesser Telepathic Bond
+Let Go of Me
+Levitate
+Lifebreath (3.5e Spell)
+Light
+Lightning Bolt
+Limited Wish
+Liveoak
+Living Lightning
+Locate Creature
+Locate Object
+Longstrider
+Lord of Nightmares
+Lullaby
+Maddening Scream
+Mage's Disjunction
+Mage's Faithful Hound
+Mage's Lucubration
+Mage's Magnificent Mansion
+Mage's Private Sanctum
+Mage's Sword
+Mage Armor
+Mage Hand
+Magic Aura
+Magic Circle against Chaos
+Magic Circle against Evil
+Magic Circle against Good
+Magic Circle against Law
+Magic Fang
+Magic Jar
+Magic Missile
+Magic Mouth
+Magic Stone
+Magic Vestment
+Magic Weapon
+Major Creation
+Major Image
+Make Whole
+Mark of Justice
+Mass Bear's Endurance
+Mass Bull's Strength
+Mass Cat's Grace
+Mass Charm Monster
+Mass Cure Critical Wounds
+Mass Cure Light Wounds
+Mass Cure Moderate Wounds
+Mass Cure Serious Wounds
+Mass Eagle's Splendor
+Mass Enlarge Person
+Mass Fox's Cunning
+Mass Frog
+Mass Heal
+Mass Hold Monster
+Mass Hold Person
+Mass Inflict Critical Wounds
+Mass Inflict Light Wounds
+Mass Inflict Moderate Wounds
+Mass Inflict Serious Wounds
+Mass Invisibility
+Mass Owl's Wisdom
+Mass Reduce Person
+Mass Suggestion
+Maze
+Meld into Stone
+Mending
+Mental Pinnacle
+Message
+Meteor Swarm
+Mind Blank
+Mind Fog
+Minor Creation
+Minor Image
+Miracle
+Mirage Arcana
+Mirror Image
+Misdirection
+Mislead
+Mnemonic Enhancer
+Modify Memory
+Moment of Prescience
+Momento Mori
+Mount
+Move Earth
+Mummy Dust
+Nailed to the Sky
+Neutralize Poison
+Nightmare (Spell)
+Nondetection
+Obscure Object
+Obscuring Mist
+Open/Close
+Order's Wrath
+Origin of Species: Achaierai
+Overland Flight
+Owl's Wisdom
+Pass without Trace
+Passwall
+Peripety
+Permanency
+Permanent Image
+Persistent Image
+Pestilence
+Phantasmal Killer
+Phantom Steed
+Phantom Trap
+Phase Door
+Planar Ally
+Planar Binding
+Plane Shift
+Plant Growth
+Poison (Spell)
+Polar Ray
+Polymorph (Spell)
+Polymorph Any Object
+Power Word Blind
+Power Word Kill
+Power Word Stun
+Prayer
+Prestidigitation
+Prismatic Sphere
+Prismatic Spray
+Prismatic Wall
+Probe Thoughts
+Produce Flame
+Programmed Image
+Project Image
+Protection from Arrows
+Protection from Chaos
+Protection from Energy
+Protection from Evil
+Protection from Good
+Protection from Law
+Protection from Spells
+Prying Eyes
+Psychic Turmoil
+Purify Food and Drink
+Pyrotechnics
+Quench
+Rage
+Rain of Fire
+Rainbow Pattern
+Raise Dead
+Raise Island
+Ray of Enfeeblement
+Ray of Exhaustion
+Ray of Frost
+Read Magic
+Reduce Animal
+Reduce Person
+Refuge
+Regenerate
+Reincarnate
+Remove Blindness/Deafness
+Remove Curse
+Remove Disease
+Remove Fear
+Remove Paralysis
+Repel Metal or Stone
+Repel Vermin
+Repel Wood
+Repulsion
+Resilient Sphere
+Resist Energy
+Resistance
+Restoration
+Resurrection
+Reverse Gravity
+Righteous Might
+Rope Trick
+Ruin
+Rusting Grasp
+SRD3e:Emotion
+Safe Time
+Sanctuary
+Scare
+Scintillating Pattern
+Scorching Ray
+Screen
+Scrying
+Sculpt Sound
+Searing Light
+Secret Chest
+Secret Page
+Secure Shelter
+See Invisibility
+Seeming
+Seijin
+Sending
+Sepia Snake Sigil
+Sequester
+Shades
+Shadow Conjuration
+Shadow Evocation
+Shadow Walk
+Shambler
+Shape Nature (3.5e Spell)
+Shapechange
+Shatter
+Shield
+Shield Other
+Shield of Faith
+Shield of Law
+Shillelagh
+Shocking Grasp
+Shout
+Shrink Item
+Silence
+Silent Image
+Simulacrum
+Slay Living
+Sleep
+Sleet Storm
+Slow
+Snare
+Soften Earth and Stone
+Solid Fog
+Song of Discord
+Soul Bind
+Soul Dominion
+Soul Scry
+Sound Burst
+Speak with Animals
+Speak with Dead
+Speak with Plants
+Spectral Hand
+Spell Immunity
+Spell Resistance (Spell)
+Spell Turning
+Spell Worm
+Spellstaff
+Spider Climb
+Spike Growth
+Spike Stones
+Spiritual Weapon
+Statue
+Status
+Steal Dead (3.5e Spell)
+Stinking Cloud
+Stone Shape
+Stone Tell
+Stone to Flesh
+Stoneskin
+Storm of Vengeance
+Suggestion
+Summon Behemoth
+Summon Instrument
+Summon Monster I
+Summon Monster II
+Summon Monster III
+Summon Monster IV
+Summon Monster IX
+Summon Monster Table
+Summon Monster V
+Summon Monster VI
+Summon Monster VII
+Summon Monster VIII
+Summon Nature's Ally I
+Summon Nature's Ally II
+Summon Nature's Ally III
+Summon Nature's Ally IV
+Summon Nature's Ally IX
+Summon Nature's Ally Table
+Summon Nature's Ally V
+Summon Nature's Ally VI
+Summon Nature's Ally VII
+Summon Nature's Ally VIII
+Summon Swarm
+Sunbeam
+Sunburst
+Superb Dispelling
+Surelife
+Symbol
+Symbol of Death
+Symbol of Fear
+Symbol of Insanity
+Symbol of Pain
+Symbol of Persuasion
+Symbol of Sleep
+Symbol of Stunning
+Symbol of Weakness
+Sympathetic Vibration
+Sympathy
+Telekinesis
+Telekinetic Sphere
+Telepathic Bond
+Teleport
+Teleport Object
+Teleportation Circle
+Temporal Stasis
+Time Duplicate
+Time Stop
+Tiny Hut
+Tongues
+Touch of Fatigue
+Touch of Idiocy
+Touch of Madness
+Transformation
+Transmute Metal to Wood
+Transmute Mud to Rock
+Transmute Rock to Mud
+Transport via Plants
+Trap the Soul
+Tree Shape
+Tree Stride
+True Creation
+True Resurrection
+True Seeing
+True Strike
+Undeath to Death
+Undetectable Alignment
+Unhallow
+Unholy Aura
+Unholy Blight
+Unseen Servant
+Vampiric Touch
+Veil
+Vengeful Gaze of God
+Ventriloquism
+Verdigris
+Verdigris Tsunami
+Virtue
+Vision
+Wail of the Banshee
+Wall of Fire
+Wall of Force
+Wall of Ice
+Wall of Iron
+Wall of Stone
+Wall of Thorns
+Warp Wood
+Water Breathing
+Water Walk
+Waves of Exhaustion
+Waves of Fatigue
+Web
+Weird
+Whirlwind
+Whispering Wind
+Wind Walk
+Wind Wall
+Wish
+Wood Shape
+Word of Chaos
+Word of Recall
+Zone of Silence
+Zone of Truth

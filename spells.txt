@@ -1,0 +1,172 @@
+Acid #{noun}
+#{noun} Splash
+Align #{noun}
+Alter #{noun}
+#{verb} Aura
+#{adjective} Aura
+Animate #{noun}
+Antimagic #{noun}
+Arcane #{noun}
+Armor of #{ity}
+Astral #{verb}
+Astral #{ity}
+Astral #{noun}
+Baleful #{noun}
+#{animal}'s Endurance
+#{color} Tentacles
+#{adjective} Tentacles
+#{noun} Barrier
+Bless #{noun}
+Bolt of #{ity}
+#{animal} Brain
+#{verb} Enchantment
+#{animal}'s Strength
+Burning #{body_part}
+Call #{noun}
+Call #{verb}
+Calm #{nouns}
+#{animal}'s Grace
+Cause #{emotion}
+Charm #{noun}
+Chill #{noun}
+Circle of #{noun}
+Clenched #{body_part}
+Cloak of #{noun}
+#{noun} Spray
+Command #{nouns}
+Commune with #{noun}
+Comprehend #{noun}
+Cone of #{adjective}
+Continual #{noun}
+Control #{noun}
+Corrupt #{noun}
+Create #{noun}
+Create Greater #{noun}
+Create Living #{noun}
+#{ing} Doom
+Creeping #{noun}
+Crown of #{noun}
+Crown of #{adjective} #{noun}
+Crushing #{noun}
+Cure #{adjective} Wounds
+Cure Critical #{noun}
+Curse #{noun}
+Dancing #{nouns}
+Daze #{noun}
+Delay #{noun}
+Detect #{noun} or #{noun}
+Detect #{noun}
+Detect #{adjective}
+Detect #{ity}
+Detect #{word}
+Detect Secret #{noun}
+Dimensional #{noun}
+Diminish #{nouns}
+Dire #{noun}
+Discern #{nouns}
+Disguise #{noun}
+Dispel #{noun}
+Dispel #{ity}
+Disrupt #{noun}
+Divine #{noun}
+Dominate #{noun}
+#{noun} Knight
+Aura of #{noun}
+#{animal}'s Splendor
+Elemental #{noun}
+Endure #{adjective}
+#{adjective} Drain
+Enlarge #{noun}
+#{adjective} Shield
+Eternal #{noun}
+Ethereal #{noun}
+Expeditious #{verb}
+Explosive #{nouns}
+Faerie #{noun}
+False #{noun}
+Find #{nouns}
+Finger of #{noun}
+Finger of #{ing}
+Fire #{noun}
+Fire #{nouns}
+Flame #{noun}
+Flaming #{noun}
+Flesh to #{noun}
+#{noun} to Stone
+Floating #{noun}
+#{adjective} Disk
+#{noun} Cloud
+Forceful #{body_part}
+#{animal}'s Cunning
+Freezing #{noun}
+#{adjective} Form
+Gathering of #{animal}s
+#{adjective} Repose
+Ghost #{noun}
+Giant #{noun}
+Grasping #{body_part}
+Magic #{noun}
+Magic #{body_part}
+Halt #{noun}
+Heal #{animal}
+Heal #{noun}
+Helping #{body_part}
+Hide from #{noun}
+Hold #{noun}
+Hold #{body_part}
+Horrid #{ing}
+Horrid #{ity}
+Horrid #{noun}
+Illusory #{noun}
+Incendiary #{noun}
+Inflict #{adjective} Wounds
+Interposing #{body_part}
+Iron #{body_part}
+Irresistible #{ity}
+Locate #{noun}
+Mage's Faithful #{animal}
+Magic #{noun}
+Modify #{noun}
+Move #{noun}
+Neutralize #{noun}
+#{animal}'s Wisdom
+Phantasmal #{noun}
+Phantom #{noun}
+Planar #{noun}
+Power Word #{verb}
+Power Word #{noun}
+Prismatic #{noun}
+Produce #{noun}
+Protection from #{nouns}
+Protection from #{adverb}
+Prying #{body_part}
+Rain of #{noun}
+Ray of #{ing}
+Ray of #{ity}
+Ray of #{noun}
+Repel #{animal}
+Shadow #{noun}
+Shadow #{verb}
+Song of #{adverb}
+Speak with #{nouns}
+Spectral #{body_part}
+Stone to #{noun}
+Storm of #{ity}
+Summon #{animal}
+Summon #{noun}
+Symbol of #{ity}
+Telekinetic #{shape}
+Teleport #{noun}
+Touch of #{adjective}
+Transmute #{noun} to #{noun}
+True #{ing}
+True #{ity}
+Unholy #{noun}
+Wail of the #{animal}
+Wall of #{noun}
+Wall of #{ity}
+Waves of #{noun}
+Waves of #{adjective}
+Whispering #{noun}
+Zone of #{ity}
+Zone of #{noun}

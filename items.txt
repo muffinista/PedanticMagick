@@ -1,0 +1,69 @@
+#{ing} Shield
+Amulet of #{noun}
+Amulet of Mighty #{body_part}
+Amulet of Natural #{noun}
+Amulet of Proof against #{tion}
+Apparatus of the #{animal}
+Armor of #{noun}
+Assassin's #{noun}
+Bag of #{ing}
+Bag of #{nouns}
+Bead of #{noun}
+#{ing} Sword
+Blessed #{noun}
+Book of Infinite #{nouns}
+Boots of #{ing}
+Bracers of #{noun}
+Brooch of #{ing}
+Broom of #{ing}
+Candle of #{tion}
+Candle of #{adjective}
+Celestial #{noun}
+Chime of #{tion}
+Chime of #{ing}
+Circlet of #{noun}
+Cube of #{noun}
+Dust of #{ness}
+Efficient #{noun}
+Elixir of #{ing}
+Eyes of #{ing}
+Eyes of #{tion}
+Gauntlet of #{noun}
+Gauntlets of #{ing}
+Gauntlets of #{noun} Power
+Gem of #{ness}
+Gem of #{ing}
+Glove of #{ing}
+Harp of #{ing}
+Hat of #{noun}
+Helm of #{noun}
+Horn of #{ing}
+Immovable #{noun}
+Javelin of #{ing}
+Lantern of #{ing}
+Mace of #{ing}
+Medallion of #{nouns}
+Necklace of #{tion}
+#{noun} of Power
+#{noun} of Wisdom
+Phylactery of #{ness}
+Pipes of #{ing}
+Ring of #{noun} Friendship
+Ring of #{ing}
+Rod of #{ing}
+Rod of #{noun}
+Rod of the #{animal}
+Rope of #{ing}
+Scarab of #{tion}
+Sphere of #{tion}
+Staff of #{tion}
+Staff of #{ing}
+#{ing} Spoon
+Sword of #{adverb}
+Talisman of #{adjective}
+Talisman of Pure #{adjective}
+The Shield of the #{noun}
+Tome of #{ing}
+Trident of #{ing}
+Unguent of #{ing}
+Vest of #{verb}

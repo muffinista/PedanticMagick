@@ -19,6 +19,8 @@ spells = File.read("spells.txt")
 
 @cache = {}
 
+@spooky = %w(Spoopy Spooky Scary Eldritch Terrifying Eerie Frightening Macabre Horrifying Macabre Disturbing Alarming)
+
 def file_to_array(f)
   x = []
   File.read(f).each_line { |l|
@@ -204,10 +206,16 @@ def magick_item
   render(random_item)
 end
 
-if rand(100) > 50
-  tweet magick_item
-else
-  tweet cast_spell
+output = if rand(100) > 50
+           magick_item
+         else
+           cast_spell
+         end
+
+if rand(100) > 25
+  output = [@spooky.sample, output].join(" ")
 end
+
+tweet output
 
 File.open('words.yml', 'w') {|f| f.write(@cache.to_yaml) }

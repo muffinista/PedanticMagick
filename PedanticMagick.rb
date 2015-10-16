@@ -212,7 +212,7 @@ output = if rand(100) > 50
            cast_spell
          end
 
-if rand(100) > 25
+if rand(100) > 50 
   output = [@spooky.sample, output].join(" ")
 end
 

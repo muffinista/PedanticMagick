@@ -14,7 +14,7 @@ Wordnik.configure do |w|
   w.api_key = bot.config[:wordnik_key]
   w.logger = Logger.new('/dev/null')
 end
- 
+
 spells = File.read("spells.txt")
 
 @cache = {}
@@ -206,16 +206,25 @@ def magick_item
   render(random_item)
 end
 
-output = if rand(100) > 50
-           magick_item
-         else
-           cast_spell
-         end
+ok_to_tweet = false
+while ok_to_tweet == false do
+  output = if rand(100) > 50
+             magick_item
+           else
+             cast_spell
+           end
 
-if rand(100) > 50 
-  output = [@spooky.sample, output].join(" ")
+  ok_to_tweet = bad_words.select { |w|
+    output.downcase.include?(w)
+  }.empty?
 end
 
-tweet output
+if ok_to_tweet
+#  if rand(100) > 50 
+#    output = [@spooky.sample, output].join(" ")
+#  end
 
-File.open('words.yml', 'w') {|f| f.write(@cache.to_yaml) }
+  tweet output
+
+  File.open('words.yml', 'w') {|f| f.write(@cache.to_yaml) }
+end

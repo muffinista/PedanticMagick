@@ -15,8 +15,6 @@ Wordnik.configure do |w|
   w.logger = Logger.new('/dev/null')
 end
 
-spells = File.read("spells.txt")
-
 @cache = {}
 
 @spooky = %w(Spoopy Spooky Scary Eldritch Terrifying Eerie Frightening Macabre Horrifying Macabre Disturbing Alarming)
@@ -220,9 +218,9 @@ while ok_to_tweet == false do
 end
 
 if ok_to_tweet
-#  if rand(100) > 50 
-#    output = [@spooky.sample, output].join(" ")
-#  end
+  if Time.now.month == 10 && rand(100) > 50 
+    output = [@spooky.sample, output].join(" ")
+  end
 
   tweet output
 

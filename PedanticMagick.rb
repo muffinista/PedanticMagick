@@ -206,7 +206,7 @@ end
 
 ok_to_tweet = false
 while ok_to_tweet == false do
-  output = if rand(100) > 50
+  output = if rand(100) > 70
              magick_item
            else
              cast_spell

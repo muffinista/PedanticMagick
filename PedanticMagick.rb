@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
+require 'dotenv/load'
 require 'chatterbot/dsl'
 require 'wordnik'
 require 'yaml'
@@ -9,6 +10,12 @@ require 'namey'
 require 'possessive'
 require 'linguistics'
 
+
+if ENV["MASTODON_TOKEN"].present?
+  require 'mastodon'
+  token = ENV["MASTODON_TOKEN"]
+  mastodon = Mastodon::REST::Client.new(base_url: 'https://botsin.space', bearer_token:token)
+end
 
 Wordnik.configure do |w|
   w.api_key = bot.config[:wordnik_key]
@@ -222,7 +229,11 @@ if ok_to_tweet
     output = [@spooky.sample, output].join(" ")
   end
 
-  tweet output
+  unless ENV["SKIP_TWEET"].to_i > 0
+    tweet output
+  end
 
-  File.open('words.yml', 'w') {|f| f.write(@cache.to_yaml) }
+  if ENV["MASTODON_TOKEN"].present?
+    mastodon.create_status(output)
+  end
 end

@@ -2,7 +2,6 @@
 
 require 'rubygems'
 require 'dotenv/load'
-require 'chatterbot/dsl'
 require 'wordnik'
 require 'yaml'
 require 'tilt'
@@ -11,20 +10,23 @@ require 'possessive'
 require 'linguistics'
 
 
-if ENV["MASTODON_TOKEN"].present?
-  require 'mastodon'
-  token = ENV["MASTODON_TOKEN"]
-  mastodon = Mastodon::REST::Client.new(base_url: 'https://botsin.space', bearer_token:token)
-end
+require 'mastodon'
+token = ENV["MASTODON_TOKEN"]
+mastodon = Mastodon::REST::Client.new(base_url: 'https://botsin.space', bearer_token:token)
 
 Wordnik.configure do |w|
-  w.api_key = bot.config[:wordnik_key]
+  w.api_key = ENV['WORDNIK_KEY']
   w.logger = Logger.new('/dev/null')
+  w.scheme = 'https'
 end
 
 @cache = {}
 
 @spooky = %w(Spoopy Spooky Scary Eldritch Terrifying Eerie Frightening Macabre Horrifying Macabre Disturbing Alarming)
+
+def bad_words
+  JSON.parse(File.read('badwords.json'))
+end
 
 def file_to_array(f)
   x = []
@@ -211,6 +213,7 @@ def magick_item
   render(random_item)
 end
 
+
 ok_to_tweet = false
 while ok_to_tweet == false do
   output = if rand(100) > 70
@@ -227,10 +230,6 @@ end
 if ok_to_tweet
   if Time.now.month == 10 && rand(100) > 50 
     output = [@spooky.sample, output].join(" ")
-  end
-
-  unless ENV["SKIP_TWEET"].to_i > 0
-    tweet output
   end
 
   if ENV["MASTODON_TOKEN"].present?

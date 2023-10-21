@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem "wordnik"
+gem "wordnik", git: 'https://github.com/muffinista/wordnik-ruby.git', branch: 'update-old-code'
 gem "tilt"
 gem "activesupport"
-gem "namey"
+gem "namey", git: 'https://github.com/muffinista/namey.git'
 gem "possessive"
 gem "linguistics"
 gem "pry"

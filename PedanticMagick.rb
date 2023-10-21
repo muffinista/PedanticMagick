@@ -141,7 +141,7 @@ def _ing
   verb
 
   v = @cache[:verb].sample
-  v.en.infinitive.en.present_participle
+  v.en.infinitive.en.present_participle rescue nil
 end
 
 def tion

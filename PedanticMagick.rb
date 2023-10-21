@@ -22,7 +22,7 @@ end
 
 @cache = {}
 
-@spooky = %w(Spoopy Spooky Scary Eldritch Terrifying Eerie Frightening Macabre Horrifying Macabre Disturbing Alarming)
+@spooky = %w(Unusual Scary Eldritch Terrifying Eerie Frightening Macabre Horrifying Macabre Disturbing Alarming)
 
 def bad_words
   JSON.parse(File.read('badwords.json'))
